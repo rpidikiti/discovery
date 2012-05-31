@@ -1,0 +1,20 @@
+{
+    "applicationName": "discovery",
+    "applicationId": "com.wordnik.discovery",
+    "inputPath": "",
+    "iconName": "",
+    "outputPath": "",
+    "versionString": "0.1",
+    "configuration": "debug",
+    "platform": "iOSSimulator",
+    "deviceType": "iPad",
+    "certificatePath":"./Cert/Certificates.p12",
+    "certificateAlias":"iPhone Developer: First Last (4E6D79BASH)",
+    "rawConfig":"<Optional><key>UIPrerenderedIcon</key><false/>",
+    "orientations": [
+        "portrait",
+        "landscapeLeft",
+        "landscapeRight",
+        "portraitUpsideDown"
+    ]
+}

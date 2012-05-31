@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Laker-Compendium/Laker-Compendium.iml" filepath="$PROJECT_DIR$/../Laker-Compendium/Laker-Compendium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery.iml" filepath="$PROJECT_DIR$/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jquery.flippage/jquery.flippage.iml" filepath="$PROJECT_DIR$/../jquery.flippage/jquery.flippage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sencha-touch-2.0.0-gpl/sencha-touch-2.0.0-gpl.iml" filepath="$PROJECT_DIR$/../sencha-touch-2.0.0-gpl/sencha-touch-2.0.0-gpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../turn.js/turn.js.iml" filepath="$PROJECT_DIR$/../turn.js/turn.js.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,5 @@
+[Sat May 26 16:14:51 2012] [emerg] (2)No such file or directory: Couldn't create accept lock (/private/var/run/accept.lock.13251) (5)
+[Sat May 26 16:15:20 2012] [warn] pid file /Users/ramesh/dev/tools/discovery/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 26 16:15:20 2012] [emerg] (2)No such file or directory: Couldn't create accept lock (/private/var/run/accept.lock.13255) (5)
+[Sat May 26 16:16:30 2012] [warn] pid file /Users/ramesh/dev/tools/discovery/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 26 16:16:30 2012] [emerg] (2)No such file or directory: Couldn't create accept lock (/private/var/run/accept.lock.13261) (5)
