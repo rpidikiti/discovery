@@ -30,7 +30,14 @@
         },
         {
             "path": "lib/turn.js"
-        }
+        },
+         {
+             "path":"lib/jquery.cslider.js"
+         },
+         {
+             "path":"lib/modernizr.custom.28468.js"
+         }
+
 
     ],
 
@@ -82,7 +89,8 @@
     "extras": [
         "resources/images",
         "resources/icons",
-        "resources/loading"
+        "resources/loading",
+        "resources/templates"
     ],
 
     /**

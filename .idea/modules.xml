@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Laker-Compendium/Laker-Compendium.iml" filepath="$PROJECT_DIR$/../Laker-Compendium/Laker-Compendium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ParallaxContentSlider/ParallaxContentSlider.iml" filepath="$PROJECT_DIR$/../ParallaxContentSlider/ParallaxContentSlider.iml" />
       <module fileurl="file://$PROJECT_DIR$/discovery.iml" filepath="$PROJECT_DIR$/discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/../jquery.flippage/jquery.flippage.iml" filepath="$PROJECT_DIR$/../jquery.flippage/jquery.flippage.iml" />
       <module fileurl="file://$PROJECT_DIR$/../sencha-touch-2.0.0-gpl/sencha-touch-2.0.0-gpl.iml" filepath="$PROJECT_DIR$/../sencha-touch-2.0.0-gpl/sencha-touch-2.0.0-gpl.iml" />

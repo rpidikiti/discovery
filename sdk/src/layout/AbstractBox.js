@@ -97,6 +97,7 @@ Ext.define('Ext.layout.AbstractBox', {
      * @private
      */
     doItemAdd: function(item, index) {
+//        debugger;
         this.callParent(arguments);
 
         if (item.isInnerItem()) {

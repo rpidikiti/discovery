@@ -78,11 +78,11 @@
 		</data>
 		<key>webapp/app.js</key>
 		<data>
-		Y4WtTaiZasjgyeoXFaNnR3lyACk=
+		FRHaS3OHTBuGzIGfgHUmG86/qCw=
 		</data>
 		<key>webapp/app.json</key>
 		<data>
-		gVZJmcyJZluz7TlFRv0vfn3VM2Y=
+		HKKbQiDgv74QOaqoRB186ZakzvA=
 		</data>
 		<key>webapp/iTunesArtwork.png</key>
 		<data>
@@ -94,11 +94,23 @@
 		</data>
 		<key>webapp/index.html</key>
 		<data>
-		E5BPFcHkH5QTQv8c9c09mE3byXA=
+		ffx0I6R1QmxZT146NE8Q+7vyaSE=
 		</data>
 		<key>webapp/lib/jquery-1.6.4.js</key>
 		<data>
 		U/HII3d+fkyNVv6ITmRHHqB36e8=
+		</data>
+		<key>webapp/lib/jquery.cslider.js</key>
+		<data>
+		zpI3sJ58WbXYBUozfXJ1zvTs+rc=
+		</data>
+		<key>webapp/lib/jquery.flip.js</key>
+		<data>
+		f7N5lB+c4381I+E3+1NDJ+6vmFY=
+		</data>
+		<key>webapp/lib/modernizr.custom.28468.js</key>
+		<data>
+		ndMvtwwmImv+mNVWnUmoI0M6NOQ=
 		</data>
 		<key>webapp/lib/turn.js</key>
 		<data>
@@ -106,7 +118,7 @@
 		</data>
 		<key>webapp/resources/css/app.css</key>
 		<data>
-		G8KDD5fwDs7PpVgF5fL2fKvuZnA=
+		q7BCTunPYbBHaTrWg0gDWX/OQeE=
 		</data>
 		<key>webapp/resources/icons/Icon.png</key>
 		<data>
@@ -132,6 +144,26 @@
 		<data>
 		gyb58/PWoz7wRm8DKqBg0NkjTAg=
 		</data>
+		<key>webapp/resources/images/1.png</key>
+		<data>
+		AadWzmORqmvupJAFtdoOFrFplhw=
+		</data>
+		<key>webapp/resources/images/2.png</key>
+		<data>
+		zE1py9jIW+RzOvdIelWwOcsuc+M=
+		</data>
+		<key>webapp/resources/images/3.png</key>
+		<data>
+		8KVU8dE6MGihmloa3/Dji3dxxOw=
+		</data>
+		<key>webapp/resources/images/4.png</key>
+		<data>
+		QlGBcAXeYcY3yLIHO/EyqITA0RA=
+		</data>
+		<key>webapp/resources/images/ImageAttribution.txt</key>
+		<data>
+		hN9ocLroSYCoR3tPVZ1ereoZddc=
+		</data>
 		<key>webapp/resources/images/TheNext_bg.jpg</key>
 		<data>
 		3uNlT1MsWp4mHf7SLWwY5N6Xav4=
@@ -139,6 +171,18 @@
 		<key>webapp/resources/images/TheNext_bg_black.jpg</key>
 		<data>
 		bpFzhXvGOkxa7DcRpsydj/Fos/g=
+		</data>
+		<key>webapp/resources/images/Thumbs.db</key>
+		<data>
+		d0IVYr6UYOr3yETqJiJOOccyg4U=
+		</data>
+		<key>webapp/resources/images/arrows.png</key>
+		<data>
+		rPtEdN2bnSoVUMnxZJGaEkqtonQ=
+		</data>
+		<key>webapp/resources/images/bg.png</key>
+		<data>
+		4ayDYNwOseDm41lMboKiIO40dpc=
 		</data>
 		<key>webapp/resources/images/card_background.jpg</key>
 		<data>
@@ -151,6 +195,10 @@
 		<key>webapp/resources/images/card_bg_white.jpg</key>
 		<data>
 		0ldtaRfLP1H8BFc8MAkUlCzohDo=
+		</data>
+		<key>webapp/resources/images/waves.gif</key>
+		<data>
+		SZNYbet1Wr3tNSK7xmWJWTUKYCY=
 		</data>
 		<key>webapp/resources/loading/Default-LandscapeLeft~ipad.png</key>
 		<data>
@@ -191,6 +239,10 @@
 		<key>webapp/resources/loading/Homescreen~ipad.jpg</key>
 		<data>
 		yUzfvKU76BBENiksZaOytMJkDUE=
+		</data>
+		<key>webapp/resources/templates/channel_card.html</key>
+		<data>
+		0gXmiRroJDNVhGIaA/wzoaeZW1k=
 		</data>
 		<key>webapp/sdk/sencha-touch.js</key>
 		<data>

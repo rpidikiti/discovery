@@ -1,25 +1,21 @@
 Ext.define("discovery.view.Main", {
     extend: 'Ext.tab.Panel',
-    requires: ['Ext.TitleBar', 'discovery.view.ChannelList'],
-    
+    requires: ['Ext.TitleBar', 'discovery.view.Home'],
+
+    scroll: true,
+
     config: {
         tabBarPosition: 'bottom',
         
         items: [
             {
-                title: 'Channels',
+                title: 'Home',
                 iconCls: 'home',
-                xtype: 'ChannelList',
-                styleHtmlContent: true,
-                scrollable: true,
+                xtype: 'Home'
             },
             {
                 title: 'Manage Channels',
                 iconCls: 'action',
-
-                styleHtmlContent: true,
-                scrollable: true,
-
                 html: [
                 "This is cool new discovery application that helps you to manage your channels"
                 ].join("")
