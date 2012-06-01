@@ -27,11 +27,13 @@ Ext.define('discovery.view.Home', {
         items: [
             {
                 xtype: 'ChannelList',
-                scrollable: true
+                scrollable: true,
+                flex:8
             },
             {
                 xtype: 'TrendingTopics',
-                scrollable: true
+                scrollable: true,
+                flex:11
             }
         ]
 	},

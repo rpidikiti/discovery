@@ -61,82 +61,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ChannelList.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="infinite_scroll.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ParallaxContentSlider/infinite_scroll.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="277" column="0" selection-start="11966" selection-end="12922" vertical-scroll-proportion="-29.458334">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/Home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="23" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChannelList.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/view/ChannelList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="0" selection-start="2209" selection-end="2209" vertical-scroll-proportion="0.1738661">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="channel_card.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/templates/channel_card.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="19" selection-start="58" selection-end="58" vertical-scroll-proportion="-0.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Component.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdk/src/Component.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2535" column="13" selection-start="83146" selection-end="83151" vertical-scroll-proportion="-166.3077">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Container.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdk/src/Container.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="671" column="22" selection-start="22787" selection-end="22792" vertical-scroll-proportion="-115.38461">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HBox.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdk/src/layout/HBox.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Card.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdk/src/layout/Card.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractBox.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdk/src/layout/AbstractBox.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="2" selection-start="3280" selection-end="3280" vertical-scroll-proportion="-17.461538">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Default.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdk/src/layout/Default.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="37" selection-start="656" selection-end="661" vertical-scroll-proportion="-9.384615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VBox.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sdk/src/layout/VBox.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="111" column="0" selection-start="2329" selection-end="2960" vertical-scroll-proportion="-31.153847">
               <folding />
             </state>
           </provider>
@@ -145,7 +100,52 @@
       <file leaf-file-name="TrendingTopics.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/view/TrendingTopics.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="18" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
+            <state line="9" column="28" selection-start="154" selection-end="162" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trending_topcs.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/templates/trending_topcs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="11" selection-start="35" selection-end="35" vertical-scroll-proportion="-1.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="43" selection-start="1415" selection-end="1415" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packager.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packager.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="71" column="19" selection-start="2116" selection-end="2116" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4378" column="50" selection-start="213974" selection-end="213974" vertical-scroll-proportion="0.75701946">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Container.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sdk/src/Container.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="671" column="22" selection-start="22787" selection-end="22792" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -164,22 +164,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/jquery-1.6.4.js" />
-        <option value="$PROJECT_DIR$/sdk/src/layout/Default.js" />
-        <option value="$PROJECT_DIR$/lib/turn.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/lib/jquery.flip.js" />
         <option value="$PROJECT_DIR$/../ParallaxContentSlider/index.html" />
-        <option value="$PROJECT_DIR$/app.json" />
-        <option value="$PROJECT_DIR$/packager.json" />
-        <option value="$PROJECT_DIR$/resources/css/app.css" />
-        <option value="$PROJECT_DIR$/app/view/TrendingTopics.js" />
         <option value="$PROJECT_DIR$/app/controller/ChannelList.js" />
         <option value="$PROJECT_DIR$/app/view/Main.js" />
-        <option value="$PROJECT_DIR$/app/view/Home.js" />
         <option value="$PROJECT_DIR$/sdk/src/layout/AbstractBox.js" />
         <option value="$PROJECT_DIR$/resources/templates/channel_card.html" />
+        <option value="$PROJECT_DIR$/../ParallaxContentSlider/js/jquery.masonry.min.js" />
+        <option value="$PROJECT_DIR$/../ParallaxContentSlider/js/jquery.infinitescroll.js" />
+        <option value="$PROJECT_DIR$/../ParallaxContentSlider/css/infinite.css" />
+        <option value="$PROJECT_DIR$/../ParallaxContentSlider/infinite_scroll.html" />
+        <option value="$PROJECT_DIR$/app.json" />
         <option value="$PROJECT_DIR$/app/view/ChannelList.js" />
+        <option value="$PROJECT_DIR$/app/view/TrendingTopics.js" />
+        <option value="$PROJECT_DIR$/app/view/Home.js" />
+        <option value="$PROJECT_DIR$/packager.json" />
+        <option value="$PROJECT_DIR$/resources/templates/trending_topcs.html" />
+        <option value="$PROJECT_DIR$/resources/css/app.css" />
       </list>
     </option>
   </component>
@@ -241,99 +241,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxContentSlider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxContentSlider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ParallaxContentSlider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -383,93 +291,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="production" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -502,24 +324,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="discovery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -764,35 +568,70 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/css/app.css">
+    <entry file="file://$PROJECT_DIR$/../ParallaxContentSlider/js/jquery.masonry.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3932" column="8" selection-start="167530" selection-end="167536" vertical-scroll-proportion="-12.115385">
+        <state line="9" column="5303" selection-start="5512" selection-end="5512" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/ChannelList.js">
+    <entry file="file://$PROJECT_DIR$/../ParallaxContentSlider/js/jquery.infinitescroll.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="83" selection-end="83" vertical-scroll-proportion="0.031948883">
+        <state line="46" column="234" selection-start="11019" selection-end="11019" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery.infinitescroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/jquery.masonry.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ParallaxContentSlider/css/infinite.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="482" column="71" selection-start="0" selection-end="8495" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdk/src/Panel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/ChannelList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="0" selection-start="2329" selection-end="2960" vertical-scroll-proportion="-31.153847">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="43" selection-start="1415" selection-end="1415" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ParallaxContentSlider/infinite_scroll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="277" column="0" selection-start="11966" selection-end="12922" vertical-scroll-proportion="-29.458334">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/view/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/Main_old.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="382" selection-end="399" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controller/Main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -801,77 +640,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/view/Home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="38" selection-start="265" selection-end="265" vertical-scroll-proportion="0.0">
+        <state line="35" column="23" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/TrendingTopics.js">
+    <entry file="file://$PROJECT_DIR$/packager.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="18" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdk/src/layout/Card.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdk/src/layout/HBox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdk/src/layout/VBox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdk/src/layout/Default.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="37" selection-start="656" selection-end="661" vertical-scroll-proportion="-9.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdk/src/layout/AbstractBox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="2" selection-start="3280" selection-end="3280" vertical-scroll-proportion="-17.461538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sdk/src/Component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2535" column="13" selection-start="83146" selection-end="83151" vertical-scroll-proportion="-166.3077">
+        <state line="71" column="19" selection-start="2116" selection-end="2116" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sdk/src/Container.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="671" column="22" selection-start="22787" selection-end="22792" vertical-scroll-proportion="-115.38461">
+        <state line="671" column="22" selection-start="22787" selection-end="22792" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/templates/channel_card.html">
+    <entry file="file://$PROJECT_DIR$/app/view/TrendingTopics.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="19" selection-start="58" selection-end="58" vertical-scroll-proportion="-0.625">
+        <state line="9" column="28" selection-start="154" selection-end="162" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/ChannelList.js">
+    <entry file="file://$PROJECT_DIR$/resources/templates/trending_topcs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="0" selection-start="2209" selection-end="2209" vertical-scroll-proportion="0.1738661">
+        <state line="2" column="11" selection-start="35" selection-end="35" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4378" column="50" selection-start="213974" selection-end="213974" vertical-scroll-proportion="0.75701946">
           <folding />
         </state>
       </provider>

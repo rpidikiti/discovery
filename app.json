@@ -36,7 +36,15 @@
          },
          {
              "path":"lib/modernizr.custom.28468.js"
+         },
+         {
+             "path":"lib/jquery.infinitescroll.js"
+         },
+         {
+             "path":"lib/jquery.masonry.min.js"
          }
+
+
 
 
     ],
